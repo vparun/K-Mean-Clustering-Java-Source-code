@@ -13,8 +13,6 @@ import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.SequenceFileOutputFormat;
 
-///import de.jungblut.clustering.model.ClusterCenter;
-//import de.jungblut.clustering.model.Vector;
 
 public class KMeansClusteringJob {
         
